@@ -1,4 +1,7 @@
 body { font-family: 'Cairo', sans-serif; } *:focus { box-shadow: none !important; }
 
-
+p{
+background: var(--bs-warning);
+padding: 10px;
+}
 
